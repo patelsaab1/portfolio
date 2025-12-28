@@ -17,7 +17,7 @@ export const About = () => {
               <span className="bg-indigo-500 text-white py-2 px-3 rounded font-bold mr-1 float-left text-2xl">
                 H
               </span>
-              i, I’m <span className="font-semibold text-indigo-400">Rohit Patel</span>, a Senior Full Stack Developer with
+              i, I’m <span className="font-semibold text-indigo-400">Rohit Patel</span>, a Full Stack Developer with
               <span className="font-medium text-indigo-400"> 3.6+ years of professional experience</span>
               building scalable web applications across e-commerce, booking systems,
               geo-based platforms, and CMS solutions.

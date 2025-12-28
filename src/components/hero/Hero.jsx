@@ -34,17 +34,7 @@ const Hero = () => {
               Specialized in React, Node.js, MongoDB, PostgreSQL, MySQL, Redis, and secure API architecture.
             </p>
           </Reveal>
-          <Reveal>
-            <p className=" my-3 pointer-events-auto max-w-xl text-sm md:text-base leading-relaxed text-zinc-300">
-              Full Stack Developer with{" "}
-              <span className="text-indigo-400 font-medium">
-                4+ years of experience
-              </span>{" "}
-              in building modern UI and scalable REST APIs using
-              React, Redux, Tailwind CSS, Node.js, Express, MongoDB,
-              and MySQL, focused on performance and clean architecture.
-            </p>
-          </Reveal>
+          
 
 
           <Reveal>
